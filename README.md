@@ -1,4 +1,4 @@
-# Zama_ML.md
+# Machine Learning Topics
 ```
 1. Supervised Learning Methods:
    a. Regression : 
